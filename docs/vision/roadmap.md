@@ -1,18 +1,6 @@
-Question 3: What kinds of changes do you expect over the next few months?
+# Roadmap
 
-## Why this question matters
-
-This question teaches architectural thinking.
-
-Architects design for change.
-
-## Recommended Answer
-
-The project is intentionally expected to evolve throughout development.
-
-Anticipated changes include:
-
-### Functional Changes
+## Functional Changes
 
 - Support multiple sports.
 - Add player-level forecasting.
@@ -25,7 +13,7 @@ Anticipated changes include:
 
 ---
 
-### Technical Changes
+## Technical Changes
 
 - Replace CSV with PostgreSQL.
 - Replace local storage with cloud storage.
@@ -38,7 +26,7 @@ Anticipated changes include:
 
 ---
 
-### Documentation Changes
+## Documentation Changes
 
 - Expand tutorials.
 - Add architecture diagrams.
@@ -48,7 +36,7 @@ Anticipated changes include:
 
 ---
 
-### AI Changes
+## AI Changes
 
 - Integrate coding agents.
 - Generate documentation automatically.
@@ -57,23 +45,9 @@ Anticipated changes include:
 
 ---
 
-### Community Changes
+## Community Changes
 
 - Accept pull requests.
 - Support plugins.
 - Add contribution guidelines.
 - Add coding standards.
-
-Because change is expected, the architecture should prioritize loose coupling, modularity, and clear separation of concerns.
-
-## What you should learn
-
-Most junior developers ask
-
-What are today's requirements?
-
-Architects ask
-
-Which requirements will change?
-
-Huge difference.

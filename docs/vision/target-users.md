@@ -1,4 +1,4 @@
-# Primary Users
+# Target Users
 
 The Enterprise AI Forecasting Platform is designed for multiple user personas, each with different goals and technical expertise.
 
